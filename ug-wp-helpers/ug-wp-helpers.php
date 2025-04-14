@@ -4,7 +4,7 @@
  * Description: adds taxonomy functionality to pages and Gutenberg block editor
  * Author: YouGee
  * Plugin URI: https://github.com/OohGae/ug-wp-helpers
- * Version: 1.1
+ * Version: 0.2
  *
  * @package YouGeesLittleHelpers
  */
